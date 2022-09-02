@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "c03417c57900d16b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca7a6076fe20ca28",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c479ac737220dab",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca37aa4a4766f35b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eefb1a2c80566525",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5fe6a0e1d9da668d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f392a6d79536ed38",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbb008678729e832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "543fdf1f128e88c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ca7a6076fe20ca28",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Android/Welcome.md",
+    "Trading/Welcome.md",
+    "English/Welcome.md"
+  ]
+}
